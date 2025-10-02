@@ -1,4 +1,4 @@
-# Canopy Height and Carbon Stock Prediction Using Satellite Images with Machine Learning on GEE
+# Carbon Sequestration Assessment using Remote Sensing
 <img src="https://raw.githubusercontent.com/WangHuangHan/CanopyCarbonPrediction_GEE/main/Project_Images/1%20Title.png" width="666">
 
 ## Description
