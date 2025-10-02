@@ -2,12 +2,7 @@
 <img src="https://raw.githubusercontent.com/WangHuangHan/CanopyCarbonPrediction_GEE/main/Project_Images/1%20Title.png" width="666">
 
 ## Description
-This project uses satellite imagery on [Google Earth Engine](https://earthengine.google.com/) (GEE) to predict canopy height and estimate carbon content in the University of Malaya (Kuala Lumpur, Malaysia) area.
-
-## Citation
-If you find this repository useful for your research, please cite our paper:
-
-Loo, C. K., & Wang, H. H. (2024). *Satellite image and tree canopy height analysis using machine learning on Google Earth Engine with carbon stock estimation.* 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia, 2644–2650. [https://doi.org/10.1109/SMC54092.2024.10831413](https://doi.org/10.1109/SMC54092.2024.10831413)
+This project uses satellite imagery on predict canopy height and estimate carbon content.
 
 
 ## Setup and Installation
@@ -524,5 +519,3 @@ This study sheds light on the University of Malaya's ecosystem, emphasizing its 
 ### Future Directions
 
 The methodologies employed and findings derived from this research offer implications for environmental assessments and conservation strategies. The accuracy of predictive models and detailed carbon stock estimations could serve as a foundational framework for similar studies globally, aiding ecosystem management and informed decision-making.
-
-In summary, this project underscores the University of Malaya's ecosystem's vital role in carbon sequestration, emphasizing the significance of satellite imagery and machine learning in environmental assessments and conservation endeavors.
